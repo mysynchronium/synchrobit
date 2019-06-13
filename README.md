@@ -24,5 +24,5 @@ SynchroBit Exchange Token name is Synchro Bitcoin (SNB) which is an ERC20 Token.
 
 For more infromation, you may visit www.synchrobit.io
 
-ICO page www.synchrobit.io/ico
+ICO page https://SNBTOKEN.io
 
