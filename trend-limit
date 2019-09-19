@@ -1,0 +1,39 @@
+Traditional trading features of most of the exchanges are Limit, Market, and Stop-Limit (Stop-Loss) order. 
+However, SynchroBit™ provides its users with an innovative trading tool, called as "Trend-Limit™."
+
+Trend Limit is about to minimize the risks and maximize the ROIs of P2P Trading of cryptocurrency assets. 
+This unique feature enables users to place an order at two different expected conditions with a single fund. 
+
+The user can place her expected target price at High Stop-Limit and Low Stop-Limit simultaneously with a single fund.
+
+This unique feature is highly recommended at uncertain market trends where the user cannot correctly anticipate 
+the upcoming market moves!
+
+Trend-Limit is a great response to the increasing demand of both newcomer and professional traders for risk management
+in the uncertainty.
+
+This feature is available since the initial version of SynchroBit™ and can be used in the Advanced Trading mode.
+
+How Does It Work?
+Suppose that John is a trader in a volatile market that makes him hard to make a clear decision about the 
+proper sell/buy prices and anticipating the next move in the market.
+
+In this example, we consider a BTC pair with USDT, where the BTC price is USD 8,200.
+
+In this case, he may have two predictions for the next 1 hour as follows:
+Position 1: BTC price may increase to USD 8,500, and or
+Position 2: BTC price may fall to USD 8,000
+
+In this situation, Trend-Limit™ is the ultimate solution for overcoming the challenge, 
+since it allows the users to set two different P2P stop-limits as High and Low simultaneously. In our example, 
+John can set his Trend-Limit as follows:
+High Trend: as USD 8,490 Stop and USD 8,500 as Limit
+Low Trend: as USD 8,190 Stop and USD 8,180 as Limit
+
+By setting this example Trend-Limit, SynchroBit™ will execute the scenario that will occur sooner which means that 
+if High Trend scenario happens sooner than Low Trend one, the platform will sell the BTC for John at USD 8,500 
+otherwise, the platform will execute the next scenario.
+
+The users can set various scenarios for their funds by managing their funds and allocate them as 25%, 50%. 75%, and/or 100% 
+of their funds for Trend-Limit. In addition they . can set the desired funds for Trend-Limit manually in manual mode as well.
+In our example, John can set 25% of his funds with a Trend-Limit scenario, and 50% with another one, and so on.
